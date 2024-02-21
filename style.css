@@ -1,0 +1,15 @@
+#outer{
+    border: dotted 5px orangered;
+    
+    
+    }
+    
+    
+    .inside{
+     border: solid 2px green;
+       padding: 20px;
+       margin: 5%;
+      
+    }
+    
+    
